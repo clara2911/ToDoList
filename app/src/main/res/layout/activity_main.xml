@@ -52,15 +52,6 @@
         android:text="Add items and long click to do stuff with them" >
     </TextView>
 
-    <TextView
-        android:text="I am a textview"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
-        android:layout_marginTop="52dp"
-        android:id="@+id/textView3"
-        android:layout_alignRight="@+id/todolistItems"
-        android:layout_alignEnd="@+id/todolistItems" />
 
 
 </RelativeLayout>

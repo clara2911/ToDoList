@@ -12,7 +12,7 @@ import android.util.Log;
  */
 
 public class DBManager {
-    public DatabaseHelper dbHelper;
+    private DatabaseHelper dbHelper;
     private Context context;
     private SQLiteDatabase database;
 
